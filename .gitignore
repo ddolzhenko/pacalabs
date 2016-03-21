@@ -62,4 +62,4 @@ target/
 .ipynb_checkpoints
 
 #sublime stuff
-.sublime-workspace
+*.sublime-workspace
